@@ -1,0 +1,17 @@
+Python Pandas
+Pandas Series
+
+Pandas DataFrame
+DataFrame from dictionaryof Python Series
+DataFrame from list of Python dictionaries
+Basic DataFrame Operations
+Case Study:
+
+Use Pandas to Read the Dataset
+DataFrame
+Descriptive Statistics
+Data Cleaning
+Data Visualization
+Slicing Out Columns and Filters
+Group By and Merge DataFrame
+Parsing Timestamps
